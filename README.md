@@ -1,6 +1,6 @@
 ### 👨‍🎓 Processo Seletivo 👷‍♂️
 
-- #### Registro de dados candicatos e controle de selecionados de acordo com pretenção salarial
+- #### Registro de candidatos e controle de selecionados de acordo com pretenção salarial
 
 ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
